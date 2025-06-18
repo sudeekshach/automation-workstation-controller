@@ -99,7 +99,7 @@ Each routine is built using modular ladder logic and includes timers, diagnostic
 ## 👨‍💻 Team & Course
 
 - **Course:** EGR 550 - Advanced Automation Systems
-- **Institution:** [Arizona State University]
+- **Institution:** Arizona State University
 - **Team:** Team 4 
 
 ---
